@@ -155,6 +155,13 @@ local TargetBrainrots = {
     ["Kraken"] = true,
     ["Venuspino"] = true,
     ["Bearito Cabinito"] = true
+    ["Aquatic"] = true,
+    ["Halloween"] = true,
+    ["Lucky"] = true,
+    ["Taco"] = true,
+    ["Valentines"] = true,
+    ["witch's Broom"] = true,
+    ["Yin Yang Slap"] = true,	
 }
 
 local GOOD_BRAINROTS = {
